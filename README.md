@@ -1,6 +1,8 @@
 # Eventex
 
-Sistema de eventos do curso WTTD
+Sistema de eventos do curso WTTD 
+[![Build Status](https://travis-ci.org/bmatheus91/eventex.svg?branch=master)](https://travis-ci.org/bmatheus91/eventex)
+[![Code Health](https://landscape.io/github/bmatheus91/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/bmatheus91/eventex/master)
 
 ## Como Desenvolver?
 
