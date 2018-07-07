@@ -14,3 +14,4 @@ static3==0.7.0
 wrapt==1.10.11
 gunicorn==19.8.1
 psycopg2==2.7.4
+django-test-without-migrations==0.6
