@@ -16,7 +16,6 @@ class SubscriptionModelTest(TestCase):
 
     def test_create(self):
         """Check if the object was saved"""
-
         self.assertTrue(Subscription.objects.exists())
 
     def test_created_at(self):
